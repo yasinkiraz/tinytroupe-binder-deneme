@@ -1,0 +1,4 @@
+tinytroupe
+jupyterlab
+python-dotenv
+google-generativeai
