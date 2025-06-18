@@ -1,4 +1,4 @@
-git+https://github.com/microsoft/tinytroupe.git
+git+https://github.com/yasinkiraz/TinyTroupe_deneme.git
 jupyterlab
 python-dotenv
 google-generativeai
