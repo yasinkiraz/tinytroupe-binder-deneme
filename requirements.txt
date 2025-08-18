@@ -1,4 +1,4 @@
-git+https://github.com/yasinkiraz/tinytroupev5.git
+git+https://github.com/yasinkiraz/tinytroupev5
 jupyterlab
 python-dotenv
 google-generativeai
